@@ -1,0 +1,8 @@
+{
+  "name": "Remix JOB وَغیرہ",
+  "description": "Pakistan\u0027s 1st bilingual English and Urdu job recruitment platform connecting verified employers and skilled professionals across all provinces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
